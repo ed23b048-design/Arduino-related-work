@@ -12,4 +12,4 @@ Connections:
 1) Potentiometer connected to A3 analog pin.
 2) Buzzer connected to digital pin 8.
 3) LED connected digital pin 3.
-4) LCD- Register 11, Enable- 12
+4) LCD- Register 11, Enable- 12, contrast- GND, read mode- GND, digital pins- 7,6,5,4
