@@ -5,8 +5,10 @@ I this repository we will try to integrate a sensor (Potentiometer) with an actu
 
 Electronic componets used:
 1) Potentiometer as sensor
-2) Buzzer and Led as actuator
+2) Buzzer and LED as actuators
 3) LCD for displaying
+4) Arduino UNO board
+5) Breadboard
 
 Connections:
 1) Potentiometer connected to A3 analog pin.
