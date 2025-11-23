@@ -7,8 +7,9 @@ Electronic componets used:
 1) Potentiometer as sensor
 2) Buzzer and LED as actuators
 3) LCD for displaying
-4) Arduino UNO board
-5) Breadboard
+4) Resistors 
+5) Arduino UNO board
+6) Breadboard
 
 Connections:
 1) Potentiometer connected to A3 analog pin.
