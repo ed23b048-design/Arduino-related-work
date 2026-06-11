@@ -1,5 +1,5 @@
-# Arduino-related-work
-Arduino sensor actuator integration 
+
+# Arduino sensor actuator integration 
 
 I this repository we will try to integrate a sensor (Potentiometer) with an actuator (Buzzer / led). We will try to show you how the actuator will actuate when the sensor data crosses a threshold.
 
@@ -16,3 +16,14 @@ Connections:
 2) Buzzer connected to digital pin 8.
 3) LED connected digital pin 3.
 4) LCD- Register 11, Enable- 12, contrast- GND, read mode- GND, digital pins- 7,6,5,4
+
+
+
+# Color Detection, Object pickup arm using arduino
+
+Electronic Component used:
+1) Potentiometer
+2) IR sensor
+3) Serco motors  (2)
+4) Tri color LED
+5) Ultrasound Sensor
